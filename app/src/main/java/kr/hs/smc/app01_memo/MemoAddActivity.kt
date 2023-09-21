@@ -11,6 +11,7 @@ import kr.hs.smc.app01_memo.databinding.ActivityMemoAddBinding
 import java.util.*
 
 class MemoAddActivity : AppCompatActivity() {
+    
     private lateinit var binding:ActivityMemoAddBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
