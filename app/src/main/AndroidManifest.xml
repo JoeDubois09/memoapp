@@ -12,6 +12,9 @@
         android:theme="@style/Theme.App01_memo"
         tools:targetApi="31">
         <activity
+            android:name=".MemoReadActivity"
+            android:exported="false" />
+        <activity
             android:name=".MemoAddActivity"
             android:exported="false" />
         <activity
